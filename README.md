@@ -1,2 +1,5 @@
 # submodule-practice-sub
-git submoduleのお試し用、sub project
+
+git submodule のお試し用、sub project
+
+submodule update 1
